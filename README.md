@@ -1,5 +1,5 @@
 # DutchAuction
-HI, there. I am Lee Ka Yip who from Hong Kong. This is my Dutch Auction Project develop in Flutter with private BlockChain. IF you want to get more detail feel free to contact me in leekayip.0107@gmail.com
+HI, there. I am Lee Ka Yip from Hong Kong. This is my Dutch Auction Project develop in Flutter with private BlockChain. IF you want to get more detail feel free to contact me in leekayip.0107@gmail.com
 
 Some of the UI
 
